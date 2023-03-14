@@ -1,9 +1,5 @@
 # Vigenere Cipher
 
-![Vigenere example](../assets/images/vigenere.png?raw=true)
-
-Perhaps the most widely known multi-alphabet cipher is the Vigenère cipher. This cipher was described in 1553 by Giovan Battista Bellaso, but was misattributed to nineteenth century cryptographer Blaise de Vigenère. It is a method of encrypting alphabetic text by using a series of different mono-alphabet ciphers selected based on the letters of a keyword. Bellaso also added the concept of using any keyword, thereby making the choice of substitution alphabets difficult to calculate.
-
 For many years, Vigenère was considered very strong, even unbreakable. In the nineteenth century, Friedrich Kasiski published a technique for breaking the Vigenère cipher.
 
 ## Scripts

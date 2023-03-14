@@ -1,16 +1,5 @@
 # Caesar's cipher
 
-![Caesar example](../assets/images/caesar.png?raw=true)
-
-One of the most widely known historical encryption methods is the Caesar cipher. According to the Roman historian Gaius Suetonius Tranquillus (c. 70–130 CE), Julius Caesar used this cipher to encrypt military messages, shifting all letters of the plaintext three places to the right.
-
-Although the Caesar cipher is not useful for modern cryptographic needs, it does contain all the fundamental concepts needed for a cryptography algorithm
-
-* A plaintext message
-* An algorithm: shift every letter
-* A key: for example +3
-* A ciphertext
-
 This is, essentially, the same structure used by all modern symmetric algorithms. Because there are only 26 letters in the English alphabet, the original key space is 26 (in English), but that can be expanded to include some common punctuation and capital letters.
 
 ## Scripts
